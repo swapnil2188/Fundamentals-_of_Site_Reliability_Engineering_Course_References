@@ -7,10 +7,7 @@
 
 REFERENCES
 
-1. **Module 1 - Introduction and Background**
-
-**Book - Becoming SRE** ._Part of Expert Playlist - Breaking into Site Reliability Engineering._ 
-[https://learning.oreilly.com/library/view/becoming-sre/9781492090540/]
+1. **Module 1 - Introduction and Background** - Becoming SRE. _Part of Expert Playlist - Breaking into Site Reliability Engineering._ [Link to Book](https://learning.oreilly.com/library/view/becoming-sre/9781492090540/)
 
 
 Module 2 - Foundational Pillars of SRE
